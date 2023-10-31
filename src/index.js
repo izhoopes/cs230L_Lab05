@@ -26,6 +26,8 @@ function navigation(){
 
 //bad function name, don't care
 function CardBois(){
+	<div>
+	
 	<Card style={{ width: '18rem' }}>
       <Card.Body>
         <Card.Title>Card 1</Card.Title>
@@ -53,6 +55,8 @@ function CardBois(){
         </Card.Text>
       </Card.Body>
     </Card>
+	
+	</div>
 };
 
 // If you want to start measuring performance in your app, pass a function
