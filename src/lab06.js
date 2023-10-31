@@ -6,7 +6,7 @@ function CardBois(){
 	return(
 	<div>
 	
-	<Card style={{ width: '18rem'; display: 'inline-block' }}>
+	<Card style={{ width: '18rem', display: 'inline-block' }}>
       <Card.Body>
         <Card.Title>Card 1</Card.Title>
         <Card.Text>
@@ -15,7 +15,7 @@ function CardBois(){
         </Card.Text>
       </Card.Body>
     </Card>
-	<Card style={{ width: '18rem'; display: 'inline-block' }}>
+	<Card style={{ width: '18rem', display: 'inline-block' }}>
       <Card.Body>
         <Card.Title>Card 2</Card.Title>
         <Card.Text>
@@ -24,7 +24,7 @@ function CardBois(){
         </Card.Text>
       </Card.Body>
     </Card>
-	<Card style={{ width: '18rem'; display: 'inline-block' }}>
+	<Card style={{ width: '18rem', display: 'inline-block' }}>
       <Card.Body>
         <Card.Title>Card 3</Card.Title>
         <Card.Text>
