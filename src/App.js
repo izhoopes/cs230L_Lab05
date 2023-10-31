@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Navigation from './lab06.js';
+import Navigation from './lab06-2.js';
 import CardBois from './lab06.js';
 
 function App() {
