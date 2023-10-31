@@ -7,7 +7,7 @@ import "bootstrap/dist/css/bootstrap.css";
 
 
 
-function navigation(){
+function Navigation(){
 	return(
 		<Navbar bg="dark" data-bs-theme="dark">
         <Container>
@@ -60,5 +60,5 @@ export default CardBois;
 
 export {
   navigation,
-  CardBois,
+  //CardBois,
 }
