@@ -47,6 +47,7 @@ function CardBois(){
 };
 
 
+export default CardBois;
 
 export {
   navigation,
