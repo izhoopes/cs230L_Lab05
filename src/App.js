@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
-import navigation from './lab06.js';
-import CardBois from './lab06.js';
+import navigation from './index.js';
+import CardBois from './index.js';
 
 function App() {
   return (

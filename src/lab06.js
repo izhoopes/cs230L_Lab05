@@ -1,3 +1,5 @@
+import Card from 'react-bootstrap/Card';
+
 function navigation(){
 	return(
 		<Navbar bg="dark" data-bs-theme="dark">
