@@ -22,6 +22,7 @@ function Navigation(){
 
 //bad function name, don't care
 function CardBois(){
+	return(
 	<div>
 	
 	<Card style={{ width: '18rem' }}>
@@ -53,7 +54,8 @@ function CardBois(){
     </Card>
 	
 	</div>
-};
+	);
+}
 
 
 export default CardBois;
